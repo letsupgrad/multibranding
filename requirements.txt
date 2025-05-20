@@ -1,6 +1,6 @@
 streamlit 
 pandas 
 altair 
-
 folium
 plotly
+streamlit-folium
